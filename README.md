@@ -9,7 +9,7 @@
 ## Comparison to VSCode
 <img src="./images/comparison.png"/>
 
-### How to Install Through Zed (Not available yet):
+### How to Install Through Zed (Pending approval):
 1. Open Zed
 2. Press `cmd+shift+p` and open *zed: extensions*
 3. Search for *VSCode Dark High Contrast* and install the extension.
