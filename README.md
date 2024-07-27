@@ -1,5 +1,5 @@
 <p align="center">
-    <h3 align="center">VSCode Dark High Contrast for <a href="https://zed.dev/">Zed</a></h3>
+    <h3 align="center">VSCode Dark High Contrast Theme for <a href="https://zed.dev/">Zed</a></h3>
     <p align="center">
         A clone of the Dark High Contrast theme available on VSCode
         
