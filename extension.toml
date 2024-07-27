@@ -1,0 +1,7 @@
+id             = "vscode-dark-high-contrast"
+name           = "VSCode Dark High Contrast"
+description    = "A clone of the Dark High Contrast theme from VSCode"
+version        = "1.0"
+authors        = ["Nicholas Myrick <nmyrick@purdue.edu>"]
+repository     = "https://github.com/e-simpson/new-darcula-z"
+schema_version = 1
