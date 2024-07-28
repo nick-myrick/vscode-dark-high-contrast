@@ -46,6 +46,7 @@
 
         "status_bar.background": "#000000",
         "title_bar.background": "#000000",
+        "title_bar.inactive_background": "#000000",
         "tab_bar.background": "#000000",
         "tab.inactive_background": "#000000",
         "tab.active_background": "#000000",
