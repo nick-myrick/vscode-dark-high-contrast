@@ -50,7 +50,7 @@
         "tab_bar.background": "#000000",
         "tab.inactive_background": "#000000",
         "tab.active_background": "#000000",
-        "search.match_background": "#000000",
+        "search.match_background": "#44444466",
         "toolbar.background": "#000000",
         "panel.background": "#000000",
         "panel.focused_border": "#6FC3DF",
@@ -73,7 +73,7 @@
         "editor.invisible": null,
         "editor.wrap_guide": "#FFFFFF",
         "editor.active_wrap_guide": "#FFFFFF",
-        "editor.document_highlight.read_background": "#6FC3DF",
+        "editor.document_highlight.read_background": "#6FC3DF1A",
         "editor.document_highlight.write_background": "#000000",
 
         "terminal.background": "#000000",
@@ -150,17 +150,17 @@
           {
             "cursor": "#FFFFFF",
             "background": "#000000",
-            "selection": "#FFFFFF"
+            "selection": "#FFFFFF3D"
           },
           {
             "cursor": "#39BAE5FF",
             "background": "#39BAE5FF",
-            "selection": "#39BASE53D"
+            "selection": "#39BAE53D"
           },
           {
             "cursor": "#FE8F40FF",
             "background": "#FE8F40FF",
-            "selection": "#FE8f403D"
+            "selection": "#FE8F403D"
           },
           {
             "cursor": "#D2A6FEFF",
